@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sample Suite]">
+  <test name="Sample Test(failed)">
+    <classes>
+      <class name="testCases.TC_Save_RFID_Tag">
+        <methods>
+          <include name="setup"/>
+          <include name="tc001_Save_RFID_Tag"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.TC_Save_RFID_Tag -->
+    </classes>
+  </test> <!-- Sample Test(failed) -->
+</suite> <!-- Failed suite [Sample Suite] -->

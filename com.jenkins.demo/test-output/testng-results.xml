@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Suite" duration-ms="21570" started-at="2017-09-17T10:15:31Z" finished-at="2017-09-17T10:15:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21570" started-at="2017-09-17T10:15:31Z" finished-at="2017-09-17T10:15:53Z">
+      <class name="testCases.TC_Save_RFID_Tag">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.TC_Save_RFID_Tag@14793a8]" name="setup" is-config="true" duration-ms="5820" started-at="2017-09-17T15:45:31Z" finished-at="2017-09-17T15:45:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tc001_Save_RFID_Tag()[pri:0, instance:testCases.TC_Save_RFID_Tag@14793a8]" name="tc001_Save_RFID_Tag" duration-ms="13344" started-at="2017-09-17T15:45:37Z" finished-at="2017-09-17T15:45:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001_Save_RFID_Tag -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.TC_Save_RFID_Tag@14793a8]" name="tearDown" is-config="true" duration-ms="2373" started-at="2017-09-17T15:45:50Z" finished-at="2017-09-17T15:45:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_Save_RFID_Tag -->
+    </test> <!-- Test -->
+  </suite> <!-- Test Suite -->
+</testng-results>
